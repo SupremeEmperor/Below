@@ -773,7 +773,7 @@ PrefabInstance:
     - target: {fileID: 8418154588861190627, guid: 6f011b0003f829140af16389e86a2785,
         type: 3}
       propertyPath: m_Name
-      value: Player
+      value: PlayerObj
       objectReference: {fileID: 0}
     - target: {fileID: 8418154588861190627, guid: 6f011b0003f829140af16389e86a2785,
         type: 3}
@@ -2216,12 +2216,12 @@ PrefabInstance:
     - target: {fileID: 4972213021295737707, guid: dd9b7951620886445b96aaf0a49c5b0a,
         type: 3}
       propertyPath: attackRange
-      value: 30
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4972213021295737707, guid: dd9b7951620886445b96aaf0a49c5b0a,
         type: 3}
       propertyPath: sightRange
-      value: 0
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 4972213021295737710, guid: dd9b7951620886445b96aaf0a49c5b0a,
         type: 3}

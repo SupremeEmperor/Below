@@ -68,6 +68,7 @@ public class EnemyMovemenScript : MonoBehaviour
 
     private void ChasePlayer()
     {
+        Debug.Log("Chaseing");
         agent.SetDestination(target.transform.position);
     }
 
