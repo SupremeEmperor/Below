@@ -1,9 +1,10 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using UnityEngine.AI;
 
-public class EnemyMovemenScript : MonoBehaviour
+public class PatrolingEnemyScript : MonoBehaviour
 {
-    
     [SerializeField]
     NavMeshAgent agent;
 
@@ -25,9 +26,9 @@ public class EnemyMovemenScript : MonoBehaviour
     [SerializeField]
     float sightRange, attackRange;
     bool playerInSightRange, playerInAttackRange;
-    
 
-    
+
+
 
     [SerializeField]
     GameObject target;
@@ -52,7 +53,7 @@ public class EnemyMovemenScript : MonoBehaviour
         if (playerInSightRange && !playerInAttackRange) ChasePlayer();
         if (playerInSightRange && playerInAttackRange) AttackPlayer();
 
-        if(lastPosition == transform.position)
+        if (lastPosition == transform.position)
         {
             walkPointSet = false;
         }
@@ -93,7 +94,7 @@ public class EnemyMovemenScript : MonoBehaviour
             transform.position.z + randomZ);
 
         //if (Physics.Raycast(walkPoint, -transform.up, 2f, whatIsGround))
-            //walkPointSet = true;
+        //walkPointSet = true;
         walkPointSet = true;
     }
 }
