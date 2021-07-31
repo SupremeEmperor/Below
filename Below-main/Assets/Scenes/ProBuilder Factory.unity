@@ -127,7 +127,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh42994
+  m_Name: pb_Mesh62676
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1047,7 +1047,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1840,7 +1840,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -1876,7 +1876,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43020
+  m_Name: pb_Mesh62700
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3272,7 +3272,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -4065,7 +4065,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -4858,7 +4858,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -4894,7 +4894,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43052
+  m_Name: pb_Mesh62732
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5057,7 +5057,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh42968
+  m_Name: pb_Mesh62650
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5223,148 +5223,38 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.63362986
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.051237322
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.1144595
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.062218267
+      value: -0.07035027
       objectReference: {fileID: 0}
     - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7694264
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.102743864
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954720940079068, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.5258055
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721198590140, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 7.1942396
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721297170825, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.y
-      value: 2.62978
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721297170825, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.z
-      value: -16.15435
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.6334852
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.047370214
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.00000047683716
+      value: 0.76755303
       objectReference: {fileID: 0}
     - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.05758986
+      value: 0.05758987
       objectReference: {fileID: 0}
     - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7701533
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721942230407, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.06256906
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721942230407, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.63316566
+      value: 0.63348526
       objectReference: {fileID: 0}
-    - target: {fileID: 2062954721942230407, guid: f142ccdc55692f14783c3a77a15ee61b,
+    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.05146582
+      value: -0.04737022
       objectReference: {fileID: 0}
-    - target: {fileID: 2062954721942230407, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.00000047683716
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954721942230407, guid: f142ccdc55692f14783c3a77a15ee61b,
+    - target: {fileID: 2062954721938012460, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7697647
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.061980586
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.6332048
+      value: 0.7701532
       objectReference: {fileID: 0}
     - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.05098178
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 7.2111
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7698123
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -16.354073
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722207050550, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.2151744
+      value: -0.050981786
       objectReference: {fileID: 0}
     - target: {fileID: 2062954722571625181, guid: f142ccdc55692f14783c3a77a15ee61b,
         type: 3}
@@ -5426,26 +5316,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: 3rdPersonPlayerPackage
       objectReference: {fileID: 0}
-    - target: {fileID: 2062954722770705931, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.y
-      value: 2.62978
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954722770705931, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.z
-      value: -16.15435
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954723003012004, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.y
-      value: 2.62978
-      objectReference: {fileID: 0}
-    - target: {fileID: 2062954723003012004, guid: f142ccdc55692f14783c3a77a15ee61b,
-        type: 3}
-      propertyPath: m_FollowOffset.z
-      value: -16.15435
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f142ccdc55692f14783c3a77a15ee61b, type: 3}
 --- !u!43 &1163265114
@@ -5454,7 +5324,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43008
+  m_Name: pb_Mesh62688
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11470,7 +11340,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -12271,7 +12141,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -12516,7 +12386,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43098
+  m_Name: pb_Mesh62780
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14576,7 +14446,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -14612,7 +14482,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43084
+  m_Name: pb_Mesh62766
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15528,7 +15398,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -15564,7 +15434,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh42980
+  m_Name: pb_Mesh62662
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15727,7 +15597,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh43040
+  m_Name: pb_Mesh62720
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
